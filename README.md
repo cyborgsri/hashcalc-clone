@@ -18,3 +18,5 @@ A Python Tkinter clone of HashCalc GUI supporting multiple hash algorithms and H
    ```
 ## Usage
 1. **Launch the application**: Run `python hashcalc5.py` to open the HashCalc GUI
+
+![HashCalc Clone Screenshot](HashCalcClone1.png)
