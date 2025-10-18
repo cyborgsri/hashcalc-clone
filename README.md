@@ -1,5 +1,5 @@
 # hashcalc-clone
-A Python Tkinter clone of HashCalc GUI supporting multiple hash algorithms and HMAC
+A Python Tkinter clone of HashCalc GUI supporting multiple hash algorithms and HMAC. This HashCalc clone includes a 'Save' feature that allows users to export hash results in PDF, TXT, or DOCX formats.
 ## Setup Instructions
 1. **Prerequisites**: Ensure you have Python 3.x installed on your system
 2. **Clone the repository**:
@@ -18,5 +18,4 @@ A Python Tkinter clone of HashCalc GUI supporting multiple hash algorithms and H
    ```
 ## Usage
 1. **Launch the application**: Run `python hashcalc5.py` to open the HashCalc GUI
-
 ![HashCalc Clone Screenshot](HashCalcClone1.png)
