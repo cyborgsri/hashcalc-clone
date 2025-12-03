@@ -74,7 +74,7 @@ class HashCalcGUI(tk.Tk):
         self.data_entry.bind("<Return>", self._on_enter)
         self.bind("<Return>", self._on_enter)
 
-        # --- HMAC Section ---
+        # ---- HMAC Section ----
         hmac_frame = ttk.LabelFrame(self, text="HMAC")
         hmac_frame.pack(fill="x", padx=16, pady=2)
         self.hmac_var = tk.BooleanVar(value=False)
@@ -288,3 +288,4 @@ class HashCalcGUI(tk.Tk):
 if __name__ == "__main__":
     app = HashCalcGUI()
     app.mainloop()
+
